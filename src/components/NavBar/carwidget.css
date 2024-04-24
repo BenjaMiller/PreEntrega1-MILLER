@@ -1,0 +1,16 @@
+.car-widget {
+    display: flex;
+    align-items: center;
+}
+
+.car-widget div {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+
+    
+}
+
+div p {
+    margin-left: 5px;
+}
